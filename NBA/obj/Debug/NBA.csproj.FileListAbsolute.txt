@@ -1,0 +1,371 @@
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\bin\Debug\NBA.exe.config
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\bin\Debug\NBA.exe
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\bin\Debug\NBA.pdb
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\bin\Debug\EntityFramework.dll
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\bin\Debug\EntityFramework.SqlServer.dll
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\bin\Debug\Newtonsoft.Json.dll
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\bin\Debug\EntityFramework.xml
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\bin\Debug\EntityFramework.SqlServer.xml
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\bin\Debug\Newtonsoft.Json.xml
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\bin\Debug\ru\EntityFramework.resources.dll
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\NBA.csproj.AssemblyReference.cache
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\NBA.csproj.SuggestedBindingRedirects.cache
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\MainWindow.g.cs
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\AddMatchup.g.cs
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\AdminLogin.g.cs
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\EventAdministratorMenu.g.cs
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\Main.g.cs
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\ManageMatchups.g.cs
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\ManagePlayers.g.cs
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\ManageSeason.g.cs
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\ManageTeams.g.cs
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\MatchupDetail.g.cs
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\MatchupMain.g.cs
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\Photos.g.cs
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\PlayerDetail.g.cs
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\PlayersMain.g.cs
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\TeamDetail.g.cs
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\TeamReport.g.cs
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\TeamsMain.g.cs
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\TechnicalAdministratorMenu.g.cs
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\VisitorMenu.g.cs
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\App.g.cs
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\NBA_MarkupCompile.cache
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\NBA_MarkupCompile.lref
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\App.baml
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\MainWindow.baml
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\AddMatchup.baml
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\AdminLogin.baml
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\EventAdministratorMenu.baml
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\Main.baml
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\ManageMatchups.baml
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\ManagePlayers.baml
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\ManageSeason.baml
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\ManageTeams.baml
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\MatchupDetail.baml
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\MatchupMain.baml
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\Photos.baml
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\PlayerDetail.baml
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\PlayersMain.baml
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\TeamDetail.baml
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\TeamReport.baml
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\TeamsMain.baml
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\TechnicalAdministratorMenu.baml
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\Pages\VisitorMenu.baml
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\NBA.g.resources
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\NBA.Properties.Resources.resources
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\NBA.csproj.GenerateResource.cache
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\NBA.csproj.CoreCompileInputs.cache
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\NBA.csproj.CopyComplete
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\NBA.exe
+\\SPEK\PrePress\924-пр\!МДК 01.01\4 курс\бродяги\Студенты типа\Перегончиков\appapa\NBA-master\NBA\obj\Debug\NBA.pdb
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\bin\Debug\NBA.exe.config
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\bin\Debug\NBA.exe
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\bin\Debug\NBA.pdb
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\bin\Debug\EntityFramework.dll
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\bin\Debug\EntityFramework.SqlServer.dll
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\bin\Debug\Newtonsoft.Json.dll
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\bin\Debug\EntityFramework.xml
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\bin\Debug\EntityFramework.SqlServer.xml
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\bin\Debug\Newtonsoft.Json.xml
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\bin\Debug\ru\EntityFramework.resources.dll
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\NBA.csproj.AssemblyReference.cache
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\MainWindow.g.cs
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\AddMatchup.g.cs
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\AdminLogin.g.cs
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\EventAdministratorMenu.g.cs
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\Main.g.cs
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\ManageMatchups.g.cs
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\ManagePlayers.g.cs
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\ManageSeason.g.cs
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\ManageTeams.g.cs
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\MatchupDetail.g.cs
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\MatchupMain.g.cs
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\Photos.g.cs
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\PlayerDetail.g.cs
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\PlayersMain.g.cs
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\TeamDetail.g.cs
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\TeamReport.g.cs
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\TeamsMain.g.cs
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\TechnicalAdministratorMenu.g.cs
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\VisitorMenu.g.cs
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\App.g.cs
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\NBA_MarkupCompile.cache
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\NBA_MarkupCompile.lref
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\App.baml
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\MainWindow.baml
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\AddMatchup.baml
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\AdminLogin.baml
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\EventAdministratorMenu.baml
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\Main.baml
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\ManageMatchups.baml
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\ManagePlayers.baml
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\ManageSeason.baml
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\ManageTeams.baml
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\MatchupDetail.baml
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\MatchupMain.baml
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\Photos.baml
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\PlayerDetail.baml
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\PlayersMain.baml
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\TeamDetail.baml
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\TeamReport.baml
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\TeamsMain.baml
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\TechnicalAdministratorMenu.baml
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\Pages\VisitorMenu.baml
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\NBA.g.resources
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\NBA.Properties.Resources.resources
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\NBA.csproj.GenerateResource.cache
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\NBA.csproj.CoreCompileInputs.cache
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\NBA.csproj.CopyComplete
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\NBA.exe
+A:\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA-master\NBA\obj\Debug\NBA.pdb
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\NBA.exe.config
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\NBA.exe
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\NBA.pdb
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\EntityFramework.dll
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\EntityFramework.SqlServer.dll
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\Newtonsoft.Json.dll
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\EntityFramework.xml
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\EntityFramework.SqlServer.xml
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\Newtonsoft.Json.xml
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\ru\EntityFramework.resources.dll
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.csproj.AssemblyReference.cache
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\MainWindow.g.cs
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\AddMatchup.g.cs
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\AdminLogin.g.cs
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\EventAdministratorMenu.g.cs
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\Main.g.cs
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManageMatchups.g.cs
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManagePlayers.g.cs
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManageSeason.g.cs
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManageTeams.g.cs
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\MatchupDetail.g.cs
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\MatchupMain.g.cs
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\Photos.g.cs
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\PlayerDetail.g.cs
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\PlayersMain.g.cs
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TeamDetail.g.cs
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TeamReport.g.cs
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TeamsMain.g.cs
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TechnicalAdministratorMenu.g.cs
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\VisitorMenu.g.cs
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\App.g.cs
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA_MarkupCompile.cache
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA_MarkupCompile.lref
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\App.baml
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\MainWindow.baml
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\AddMatchup.baml
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\AdminLogin.baml
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\EventAdministratorMenu.baml
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\Main.baml
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManageMatchups.baml
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManagePlayers.baml
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManageSeason.baml
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManageTeams.baml
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\MatchupDetail.baml
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\MatchupMain.baml
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\Photos.baml
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\PlayerDetail.baml
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\PlayersMain.baml
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TeamDetail.baml
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TeamReport.baml
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TeamsMain.baml
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TechnicalAdministratorMenu.baml
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\VisitorMenu.baml
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.g.resources
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.Properties.Resources.resources
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.csproj.GenerateResource.cache
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.csproj.CoreCompileInputs.cache
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.csproj.CopyComplete
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.exe
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.pdb
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\NBA.exe.config
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\NBA.exe
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\EntityFramework.dll
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\EntityFramework.SqlServer.dll
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\Newtonsoft.Json.dll
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\EntityFramework.xml
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\EntityFramework.SqlServer.xml
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\Newtonsoft.Json.xml
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\ru\EntityFramework.resources.dll
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.csproj.AssemblyReference.cache
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\MainWindow.g.cs
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\AddMatchup.g.cs
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\AdminLogin.g.cs
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\EventAdministratorMenu.g.cs
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\Main.g.cs
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManageMatchups.g.cs
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManagePlayers.g.cs
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManageSeason.g.cs
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManageTeams.g.cs
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\MatchupDetail.g.cs
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\MatchupMain.g.cs
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\Photos.g.cs
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\PlayerDetail.g.cs
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\PlayersMain.g.cs
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TeamDetail.g.cs
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TeamReport.g.cs
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TeamsMain.g.cs
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TechnicalAdministratorMenu.g.cs
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\VisitorMenu.g.cs
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\App.g.cs
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA_MarkupCompile.cache
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA_MarkupCompile.lref
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\App.baml
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\MainWindow.baml
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\AddMatchup.baml
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\AdminLogin.baml
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\EventAdministratorMenu.baml
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\Main.baml
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManageMatchups.baml
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManagePlayers.baml
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManageSeason.baml
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManageTeams.baml
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\MatchupDetail.baml
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\MatchupMain.baml
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\Photos.baml
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\PlayerDetail.baml
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\PlayersMain.baml
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TeamDetail.baml
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TeamReport.baml
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TeamsMain.baml
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TechnicalAdministratorMenu.baml
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\VisitorMenu.baml
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.g.resources
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.Properties.Resources.resources
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.csproj.GenerateResource.cache
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.csproj.CoreCompileInputs.cache
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.csproj.CopyComplete
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.exe
+\\169.254.5.2\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.pdb
+\\SPEK\PrePress\924-пр\Перегонцев ИИ\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.csproj.SuggestedBindingRedirects.cache
+D:\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\NBA.exe.config
+D:\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\NBA.exe
+D:\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\NBA.pdb
+D:\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\EntityFramework.dll
+D:\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\EntityFramework.SqlServer.dll
+D:\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\Newtonsoft.Json.dll
+D:\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\EntityFramework.xml
+D:\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\EntityFramework.SqlServer.xml
+D:\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\Newtonsoft.Json.xml
+D:\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\ru\EntityFramework.resources.dll
+D:\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\MainWindow.g.cs
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\AddMatchup.g.cs
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\AdminLogin.g.cs
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\EventAdministratorMenu.g.cs
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\Main.g.cs
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManageMatchups.g.cs
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManagePlayers.g.cs
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManageSeason.g.cs
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManageTeams.g.cs
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\MatchupDetail.g.cs
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\MatchupMain.g.cs
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\Photos.g.cs
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\PlayerDetail.g.cs
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\PlayersMain.g.cs
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TeamDetail.g.cs
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TeamReport.g.cs
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TeamsMain.g.cs
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TechnicalAdministratorMenu.g.cs
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\VisitorMenu.g.cs
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\App.g.cs
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA_MarkupCompile.cache
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA_MarkupCompile.lref
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\App.baml
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\MainWindow.baml
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\AddMatchup.baml
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\AdminLogin.baml
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\EventAdministratorMenu.baml
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\Main.baml
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManageMatchups.baml
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManagePlayers.baml
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManageSeason.baml
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManageTeams.baml
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\MatchupDetail.baml
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\MatchupMain.baml
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\Photos.baml
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\PlayerDetail.baml
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\PlayersMain.baml
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TeamDetail.baml
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TeamReport.baml
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TeamsMain.baml
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TechnicalAdministratorMenu.baml
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\VisitorMenu.baml
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.g.resources
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.Properties.Resources.resources
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.csproj.GenerateResource.cache
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.csproj.CoreCompileInputs.cache
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.csproj.CopyComplete
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.exe
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.pdb
+E:\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\NBA.exe.config
+E:\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\NBA.exe
+E:\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\NBA.pdb
+E:\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\EntityFramework.dll
+E:\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\EntityFramework.SqlServer.dll
+E:\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\Newtonsoft.Json.dll
+E:\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\EntityFramework.xml
+E:\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\EntityFramework.SqlServer.xml
+E:\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\Newtonsoft.Json.xml
+E:\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\ru\EntityFramework.resources.dll
+E:\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\MainWindow.g.cs
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\AddMatchup.g.cs
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\AdminLogin.g.cs
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\EventAdministratorMenu.g.cs
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\Main.g.cs
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManageMatchups.g.cs
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManagePlayers.g.cs
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManageSeason.g.cs
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManageTeams.g.cs
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\MatchupDetail.g.cs
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\MatchupMain.g.cs
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\Photos.g.cs
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\PlayerDetail.g.cs
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\PlayersMain.g.cs
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TeamDetail.g.cs
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TeamReport.g.cs
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TeamsMain.g.cs
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TechnicalAdministratorMenu.g.cs
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\VisitorMenu.g.cs
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\App.g.cs
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA_MarkupCompile.cache
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA_MarkupCompile.lref
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\App.baml
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\MainWindow.baml
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\AddMatchup.baml
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\AdminLogin.baml
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\EventAdministratorMenu.baml
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\Main.baml
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManageMatchups.baml
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManagePlayers.baml
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManageSeason.baml
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\ManageTeams.baml
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\MatchupDetail.baml
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\MatchupMain.baml
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\Photos.baml
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\PlayerDetail.baml
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\PlayersMain.baml
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TeamDetail.baml
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TeamReport.baml
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TeamsMain.baml
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\TechnicalAdministratorMenu.baml
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\Pages\VisitorMenu.baml
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.g.resources
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.Properties.Resources.resources
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.csproj.GenerateResource.cache
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.csproj.CopyComplete
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.exe
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.pdb
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.csproj.AssemblyReference.cache
+D:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.csproj.SuggestedBindingRedirects.cache
+E:\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\NBA.exe.manifest
+E:\ToureBaseSLn\appapa\NBA\NBA\bin\Debug\NBA.application
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.csprojAssemblyReference.cache
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.exe.manifest
+E:\ToureBaseSLn\appapa\NBA\NBA\obj\Debug\NBA.application
